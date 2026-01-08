@@ -1,18 +1,3 @@
-/* body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
-
-
 
 
 
@@ -73,7 +58,7 @@ body::after {
   transform: translate3d(0,0,0);
 }
 
-/* purple + blue soft blobs */
+
 body::before {
   background: radial-gradient(500px 400px at 18% 22%, rgba(108,99,255,0.14), transparent 22%),
               radial-gradient(400px 300px at 80% 82%, rgba(58,176,255,0.10), transparent 30%);
